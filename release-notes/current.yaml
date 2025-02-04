@@ -8,6 +8,7 @@ security updates: |
 
 # New features or capabilities added in this release.
 new features: |
+  Allow matchExpressions in TargetSelector
 
 bug fixes: |
 
